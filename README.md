@@ -13,7 +13,7 @@ Email: dless27@gmail.com
 LinkedIn: https://www.linkedin.com/in/lessenden/
 
 
-[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=D-Lessenden&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=D-Lessenden&hide=stars,issues)](https://github.com/D-Lessenden)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Lessenden&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
