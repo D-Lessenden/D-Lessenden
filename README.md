@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 Currently
+
+I am a student at [Turing School of Software & Design.](https://turing.io/) studying backend engineering. I will be graduating on January 21st.
+
 📫 Let's have a coffee together! 
 
 Email: dless27@gmail.com
