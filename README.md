@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: 
+📫 Let's have a coffee together! 
 
 Email: dless27@gmail.com
 
