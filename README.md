@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=D-Lessenden)](https://github.com/anuraghazra/github-readme-stats&hide=stars,issues)
+[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=D-Lessenden&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
