@@ -1,4 +1,6 @@
 ### Hi there 👋
+Account Age: **{{ ACCOUNT_AGE }}**
+
 
 <!--
 **D-Lessenden/D-Lessenden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,12 +25,12 @@ LinkedIn: https://www.linkedin.com/in/lessenden/
 
 - ⚡ Fun fact: ...
 
-{{ ACCOUNT_AGE }}
 {{ PULL_REQUESTS }}
 {{ COMMITS }}
 {{ ISSUES }}
 
 -->
+
 
 
 
