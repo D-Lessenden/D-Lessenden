@@ -1,5 +1,4 @@
 ### Hi there 👋
-Account Age: **{{ ACCOUNT_AGE }}**
 
 
 <!--
@@ -24,6 +23,8 @@ Email: dless27@gmail.com
 LinkedIn: https://www.linkedin.com/in/lessenden/
 
 - ⚡ Fun fact: ...
+Account Age: **{{ ACCOUNT_AGE }}**
+
 
 {{ PULL_REQUESTS }}
 {{ COMMITS }}
