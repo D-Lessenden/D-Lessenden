@@ -2,8 +2,11 @@
 
 - 📫 How to reach me: 
 
-- Email: dless27@gmail.com
-- LinkedIn: https://www.linkedin.com/in/lessenden/
+
+Email: dless27@gmail.com
+
+
+LinkedIn: https://www.linkedin.com/in/lessenden/
 
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=D-Lessenden&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
