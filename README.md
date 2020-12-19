@@ -6,7 +6,7 @@ I am a student at [Turing School of Software & Design.](https://turing.io/) stud
 
 Ruby, Rails, Graphql, SQL, Apex, and have touched on many other frameworks and languages during my time at Turing.
 
-📫 Let's have a coffee together! 
+📫   Let's have a coffee together! 
 
 Email: dless27@gmail.com
 
