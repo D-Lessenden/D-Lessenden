@@ -3,7 +3,9 @@
 I am currently a fellow at [Formation](https://formation.dev/) and I am an alum of [Turing School of Software & Design.](https://turing.edu/) who studied backend engineering. 
 ### I’m currently learning
 
-Ruby, Rails, Graphql, SQL, Apex, and have touched on many other frameworks and languages during my time at Turing and Formation.
+Python, Bash scripting, AWS, Ruby, Rails, RESTful APIs, and have touched on many other frameworks, tools, and languages during my time at Turing and Formation.
+
+I am currently a DevOps Engineer at [Centil](https://www.centil.io/) but looking to transition to a full stack or back end engineering position.
 
 📫   Let's have a coffee together! 
 
