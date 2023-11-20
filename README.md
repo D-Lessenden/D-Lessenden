@@ -1,9 +1,9 @@
 ### Currently
 
-I am an alum of [Turing School of Software & Design.](https://turing.io/) who studied backend engineering.
+I am currently a fellow at [Formation](https://formation.dev/) and I am an alum of [Turing School of Software & Design.](https://turing.edu/) who studied backend engineering. 
 ### I’m currently learning
 
-Ruby, Rails, Graphql, SQL, Apex, and have touched on many other frameworks and languages during my time at Turing.
+Ruby, Rails, Graphql, SQL, Apex, and have touched on many other frameworks and languages during my time at Turing and Formation.
 
 📫   Let's have a coffee together! 
 
